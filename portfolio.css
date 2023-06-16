@@ -549,13 +549,13 @@ svg:hover{
         color: beige;
     }
     #hello{
-        top: 250px;
+        top: 230px;
         font-size: 20px;
         color: mediumslateblue;
         font-family: monospace;
     }
     #name{
-        top: 280px;
+        top: 260px;
         font-size: 35px;
         color: antiquewhite;
     }
@@ -568,7 +568,7 @@ svg:hover{
     }
     #subtitles{
         width: calc(100vw-160px);
-        top: 400px;
+        top: 380px;
         padding-left: 20px;
         border-left: 1px slategrey solid;
     }
@@ -752,7 +752,7 @@ svg:hover{
         top: 50%;
         text-align: center;
         transform: translateY(-50%);
-        font-size: 15px;
+        font-size: 10px;
     }
     .menu-item:nth-child(2){
         left: 33%;
